@@ -4,14 +4,16 @@ ChatworkNotifier
 ----
 ## what is ChatworkNortifier?
 ChatworkNortifier displays a balloon of new chat in Chatwork.
+it's almost like a "gist"! :(
 
 ----
 ## usage
+0. Build
 1. Launch
 2. Setting for API token.
 
 ----
-## notice
+## notice again
 it's almost like a "gist"! :(
 
 ----
